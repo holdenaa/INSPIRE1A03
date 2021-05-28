@@ -2,7 +2,6 @@ title: Ami's website # EDIT: Fill this in
 description: learning github # EDIT: Fill this in
 
 remote_theme: pmarsceill/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
-github_repo_url:"https://holdenaa.github.io/INSPIRE1A03/"
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page. (true or false)
