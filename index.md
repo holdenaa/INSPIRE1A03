@@ -1,3 +1,5 @@
-This is my first markdown file. 
-
-This is my second sentence.
+---
+title: Welcome to Ami's page
+layout: default
+nav_order: 1
+---
